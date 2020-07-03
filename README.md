@@ -4,10 +4,7 @@ This is automation framework for selenium python testing in robot. Running multi
 Robot Framework is open and extensible and can be integrated with virtually any other tool to create powerful and flexible automation solutions. 
 
 Installations:
-pip install robotframework
-pip install robotframework-seleniumlibrary
-pip install robotframework-pabot
-pip install selenium
+pip install robotframework ,robotframework-seleniumlibrary ,robotframework-pabot ,selenium
 
 The IntelliBot plugin for IntelliJ/Pycharm adds smart editing features to support the Robot Framework.
 
